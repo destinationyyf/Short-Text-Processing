@@ -1,5 +1,8 @@
 # Short-Text-Processing
 
+The code mainly has two parts. The text processing part includes several functions in tranforming files in either `.xls` or `.txt` into
+decent and readble python form, besides, it quantifies the words into matrices so that we can do further classification. The classification part has functions that utilize Kmenas to do the classification.
+
 This project contains four files.
 
 `HSCODE_Clustering.py` is the code used in the entire project;
